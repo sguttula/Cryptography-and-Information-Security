@@ -1,4 +1,5 @@
-# Secure Socket Layer
+# CS-5780-SimplifiedSSL
+## Secure Socket Layer
 
 Conceptually a Secure Socket Layer can be thought of as a pair of sockets between a server and a client where communication on the actual network socket is secure.
 
